@@ -175,10 +175,4 @@ Alvos que devolvem:
 
 podem continuar exigindo validacao manual.
 
-## Publicacao no GitHub
-Repositorio atual:
-
-```text
-https://github.com/Jugolino/FFUF_BONITO
-```
 
